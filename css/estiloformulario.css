@@ -9,7 +9,7 @@
 body{
     height: 190vh;
     width: 100vw;
-    background-image: url(/SiteLocadoraDeCarros-main/img/group-5.png);
+    background-image: url(../img/group-5.png);
     background-repeat: no-repeat;
     background-position: fixed;
     background-position-y: 230px;
